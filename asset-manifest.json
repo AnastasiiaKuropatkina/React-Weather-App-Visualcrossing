@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-weather-app-visualcrossing/static/css/main.3adcf638.css",
-    "main.js": "/react-weather-app-visualcrossing/static/js/main.df9c4545.js",
-    "static/js/453.402d85df.chunk.js": "/react-weather-app-visualcrossing/static/js/453.402d85df.chunk.js",
-    "index.html": "/react-weather-app-visualcrossing/index.html",
-    "main.3adcf638.css.map": "/react-weather-app-visualcrossing/static/css/main.3adcf638.css.map",
-    "main.df9c4545.js.map": "/react-weather-app-visualcrossing/static/js/main.df9c4545.js.map",
-    "453.402d85df.chunk.js.map": "/react-weather-app-visualcrossing/static/js/453.402d85df.chunk.js.map"
+    "main.css": "/React-Weather-App-Visualcrossing/static/css/main.3adcf638.css",
+    "main.js": "/React-Weather-App-Visualcrossing/static/js/main.6e3dce28.js",
+    "static/js/453.402d85df.chunk.js": "/React-Weather-App-Visualcrossing/static/js/453.402d85df.chunk.js",
+    "index.html": "/React-Weather-App-Visualcrossing/index.html",
+    "main.3adcf638.css.map": "/React-Weather-App-Visualcrossing/static/css/main.3adcf638.css.map",
+    "main.6e3dce28.js.map": "/React-Weather-App-Visualcrossing/static/js/main.6e3dce28.js.map",
+    "453.402d85df.chunk.js.map": "/React-Weather-App-Visualcrossing/static/js/453.402d85df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3adcf638.css",
-    "static/js/main.df9c4545.js"
+    "static/js/main.6e3dce28.js"
   ]
 }
